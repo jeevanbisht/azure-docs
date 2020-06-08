@@ -31,7 +31,7 @@ Passwords, both an IT nightmare and a pain for employees across the world. This 
 > * Automate provisioning and deprovisioning 
 > * Secure your applications
 > * Govern access to your applications
-> * Hybrid secure access
+> * Secure Hybird Access
 
 ## Scenario 1: Set up SSO for all your applications
 
@@ -73,7 +73,7 @@ Identity Governance helps organizations achieve a balance between productivity -
 |Log Analytics|Generate reports about who is accessing which applications and store them in your SIEM tool of choice to correlate data between data sources and over time.| Enable [log analytics](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-analyze-activity-logs-log-analytics) and set up alerts for critical events related to your applications. |
 
 
-## Scenario 5: Hybrid Secure Access
+## Scenario 5: Secure Hybrid Access
 Identity can only be your control plane if it can connect everything across cloud and on-premises applications. Leverage the tools provided by Azure AD and its partners to secure access to legacy-auth based applications.
 
 |Feature  |Description|Recommendation |
